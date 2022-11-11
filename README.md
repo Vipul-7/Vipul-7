@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vipul-7
 - 👀 I’m interested in learn new things about technology.
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on Project about web devlopment.
+- 💞️ I’m looking to collaborate on Project on web devlopment.
 - 📫 How to reach me 
 
 <!---
