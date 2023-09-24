@@ -6,7 +6,7 @@
 - 💻 Full-stack developer with a passion for building web and native applications.
 - 💡 Enthusiastic about solving data structure and algorithmic problems.
 
-## Tech Stack
+## Technical skills
 
 ![JavaScript Logo](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java Logo](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
